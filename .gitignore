@@ -1,0 +1,43 @@
+# Object files / libraries
+*.o
+*.a
+*.so
+*.dylib
+*.out
+*.dSYM/
+
+# Executables
+a.out
+client
+server
+serveur
+push_swap
+checker
+philo
+so_long
+libft.a
+libftprintf.a
+libmlx.a
+
+# Temporary / test files
+*.log
+*.tmp
+*.swp
+*.swo
+vgcore.*
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Inception / Docker local data
+data/
+volumes/
+wordpress/
+mariadb/
