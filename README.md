@@ -1,4 +1,3 @@
-```md
 # 42 Common Core
 
 This repository contains a selection of projects completed during the 42 School common core curriculum.
@@ -86,4 +85,3 @@ It focuses on TCP sockets, multiple client handling, command parsing, channels, 
 ## Note
 
 Some larger or more specific 42 projects are kept in separate repositories to make them easier to present individually.
-```
