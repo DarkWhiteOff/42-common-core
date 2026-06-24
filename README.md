@@ -1,8 +1,9 @@
+```md
 # 42 Common Core
 
 This repository contains a selection of projects completed during the 42 School common core curriculum.
 
-The common core focuses on low-level programming, algorithms, Unix systems, networking, concurrency, object-oriented programming and DevOps fundamentals. Most projects are written in C, with later modules introducing C++, Docker and system administration concepts.
+The common core focuses on low-level programming, algorithms, Unix systems, networking, concurrency, object-oriented programming and software engineering fundamentals. Most projects are written in C, with later modules introducing C++, graphics programming and network programming.
 
 ## Projects
 
@@ -56,10 +57,15 @@ It covers IP ranges, subnet masks, routing, gateways and basic network troublesh
 The C++ modules introduce object-oriented programming through a progressive set of exercises.  
 They cover classes, inheritance, polymorphism, operator overloading, templates, exceptions, casts and standard containers.
 
-### Inception
+### cub3d
 
-Inception is a DevOps project based on Docker and containerized services.  
-It focuses on Dockerfiles, Docker Compose, NGINX, WordPress, MariaDB, volumes, networks and service orchestration.
+cub3d is a graphical project inspired by early raycasting games such as Wolfenstein 3D.  
+It focuses on rendering a 3D view from a 2D map, using raycasting, textures, player movement, wall collisions and map parsing.
+
+### ft_irc
+
+ft_irc is a C++ networking project based on building an IRC server compatible with standard IRC clients.  
+It focuses on TCP sockets, multiple client handling, command parsing, channels, private messages, user authentication and protocol implementation.
 
 ## Skills developed
 
@@ -71,10 +77,13 @@ It focuses on Dockerfiles, Docker Compose, NGINX, WordPress, MariaDB, volumes, n
 - File descriptors
 - Multithreading
 - Networking fundamentals
+- TCP/IP sockets
 - Object-oriented programming
-- Docker and containerization
+- Graphics programming
+- Raycasting
 - Linux system administration
 
 ## Note
 
-Some larger 42 projects are kept in separate repositories to make them easier to present individually.
+Some larger or more specific 42 projects are kept in separate repositories to make them easier to present individually.
+```
