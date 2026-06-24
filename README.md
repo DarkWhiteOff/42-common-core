@@ -31,11 +31,6 @@ It covers users, groups, SSH, firewall configuration, password policies, sudo ru
 minitalk is a small client-server communication program using Unix signals.  
 The project focuses on inter-process communication, signal handling and binary data transmission between processes.
 
-### push_swap
-
-push_swap is an algorithmic sorting project using two stacks and a limited set of operations.  
-The goal is to sort integers with the smallest possible number of moves, requiring strategy design, optimization and complexity analysis.
-
 ### so_long
 
 so_long is a small 2D game built with the MiniLibX graphics library.  
